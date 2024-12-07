@@ -34,12 +34,12 @@ pip install -r requirements.txt
 
 Run the commands in the start.sh file.
 
-### 👥 Project Team
+### Project Team
 
-## 👨‍🏫 Mentor
+## Mentor
   - Dr. Bhupendra Kumar
 
-## 👩‍💻 Team Members
+## Team Members
   - Anirudh Modi (202151022)
   - Ayush Khandelwal (202151035)
   - Karan Kamath (202151071)
